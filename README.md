@@ -1,4 +1,4 @@
-# COMP 4740 Assignment 1
+# classification-model-evaluation
 
 This project compares different machine learning classifiers on multiple synthetic datasets. The goal is to evaluate how different classifiers perform using standard classification metrics.
 
